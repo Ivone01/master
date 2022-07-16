@@ -13,7 +13,8 @@ public class Operacoes {
 		}
 	
 	public void mutiplicacao (int n5 , int n6 ) {	
-	int multiplicacao = n5 * n6 ;
+	
+		int multiplicacao = n5 * n6 ;
 	System.out.println(multiplicacao);
 	}
 	
